@@ -1,18 +1,18 @@
-body{
+body {
   background-color: rgb(255, 255, 255);
 }
 
-.wrap{
+.wrap {
   display: flex;
   flex-direction: column; 
 }
 
-@media all and (max-width:375px){
-  .wrap{ 
+@media all and (max-width:375px) {
+  .wrap { 
     flex-wrap: wrap;
   }
 
-  header{
+  header {
     flex-direction: column;
   }
 
@@ -41,11 +41,11 @@ body{
     padding-top: 1em;
   }
 
-  .green-title{
+  .green-title {
     color: #4d7a65;
   }
 
-  .second-text{
+  .second-text {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -57,7 +57,7 @@ body{
     padding-left: 0.82em;
   }
 
-  main img{
+  main img {
     position:absolute;
     width: 160px;
     height: 160px;
@@ -67,13 +67,12 @@ body{
     left: -25%;
   }
 
-  .line1{
+  .line1 {
     position:absolute;
     top: 70%;
     left: 10%;
     height: 10px;
     width: 80%;
     border-bottom: 3px solid #4d7a65;
-  }
-  
+  } 
 }

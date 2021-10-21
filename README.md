@@ -11,7 +11,7 @@ VS code
 
 Getting Started
 
-To setup, you can clone the repo using the command git clone https://github.com/xxxxxx when the clone is complete you can cd to the file and open it up in your text editor. For more information on pulls and push on git checkout this link: https://guides.github.com/introduction/git-handbook/
+To run the code, clone the repo using the command git clone https://github.com/xxxxxx when the clone is complete you can cd to the file and open it up in your text editor. For more information on pulls and push on git checkout this link: https://guides.github.com/introduction/git-handbook/
 
 Author 
 
