@@ -17,17 +17,17 @@ body {
   }
 
   header p {
-    float:left;
+    float: left;
     padding-left: 2em;
-    font-family: Inter;
+    font-family: Inter, sans-serif;
     font-weight: 600;
     font-size: 20px;
     line-height: 20px;
-    color: #28352F;
+    color: #28352f;
   }
 
   main h1 {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
@@ -46,19 +46,19 @@ body {
   }
 
   .second-text {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
     line-height: 24px;
     text-align: center;
-    color: #000000;
+    color: #000;
     padding-right: 0.82em;
     padding-left: 0.82em;
   }
 
   main img {
-    position:absolute;
+    position: absolute;
     width: 160px;
     height: 160px;
     background: #4d7a65;
@@ -68,12 +68,11 @@ body {
   }
 
   .line1 {
-    position:absolute;
+    position: absolute;
     top: 70%;
     left: 10%;
     height: 10px;
     width: 80%;
     border-bottom: 3px solid #4d7a65;
   }
-
 }
